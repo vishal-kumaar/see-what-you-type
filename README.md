@@ -1,5 +1,5 @@
 # ⭐ Project - See what you type ⭐
-🔗 [Project Link](https://see-and-type.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/see-what-you-type/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
